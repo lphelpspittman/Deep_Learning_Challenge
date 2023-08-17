@@ -36,7 +36,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
       ![image](https://github.com/lphelpspittman/Deep_Learning_Challenge/assets/127759770/fbafffc9-8874-4701-87fe-c9b6b98357cc)
 
   * What steps did you take in your attempts to increase model performance?
-    * I added a third hidden layer, but that did not increase my accuracy enough.  I added the NAME column back to the model boosted accuracy rate over 75%.
+    * I added a third hidden layer, but that did not increase my accuracy enough.  I added the NAME column back to the model and boosted the accuracy rate to over 75%.
 
 ## **Summary**
 
