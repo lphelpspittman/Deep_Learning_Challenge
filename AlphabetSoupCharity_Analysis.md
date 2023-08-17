@@ -20,12 +20,20 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
     * Why? I began by using examples from course materials and duplicated the number of layers and neurons and the activation functions.
     * Initial Solution:
 
+      ![image](https://github.com/lphelpspittman/Deep_Learning_Challenge/assets/127759770/2c97f7dc-8149-46f9-ac56-952f0db878ff)
+
     * Final Solution
+
+      ![image](https://github.com/lphelpspittman/Deep_Learning_Challenge/assets/127759770/fe8ddeb1-9057-4753-a636-b37af24662bf)
 
   * Were you able to achieve the target model performance?
     * The first model produced an accuracy rate of 72%.
 
+      ![image](https://github.com/lphelpspittman/Deep_Learning_Challenge/assets/127759770/3cff8001-c417-4ce9-8c45-c44f2cb20bd1)
+
     * My final model produced an accuracy rate of just over 75%
+
+      ![image](https://github.com/lphelpspittman/Deep_Learning_Challenge/assets/127759770/fbafffc9-8874-4701-87fe-c9b6b98357cc)
 
   * What steps did you take in your attempts to increase model performance?
     * I added a third hidden layer, but that did not increase my accuracy enough.  I added the NAME column back to the model boosted accuracy rate over 75%.
