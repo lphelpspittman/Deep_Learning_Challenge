@@ -16,7 +16,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
   * How many neurons, layers, and activation functions did you select for your neural network model, and why?
     * Number of neurons: The number of neurons in the first hidden layer is 225 (hidden_nodes_layer1) and there are 37 neurons in the second layer (hidden_nodes_layer2).
     * Number of layers:  The model has 2 hidden layers.
-    * Activation functions: The activation function used the hidden layer is ReLU and sigmoid is used in the output layer.
+    * Activation functions: The activation function used the hidden layers is ReLU and sigmoid is used in the output layer.
     * Why? I began by using examples from course materials and duplicated the number of layers and neurons and the activation functions.
     * Initial Solution:
 
